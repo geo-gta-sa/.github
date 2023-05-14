@@ -7,3 +7,4 @@
 
 პროექტები:
 * [geo-gta-sa](https://github.com/geo-gta-sa/geo-gta-sa) - თამაშის გაქართულებისთვის განკუთვნილი modloader-ის ფაილები;
+* [blog](https://github.com/geo-gta-sa/blog) - ბლოგი, სადაც დაიდება სიახლეები და გადმოსაწერი ლინკი; 
